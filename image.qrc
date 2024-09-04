@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/background1.png</file>
+        <file>images/background2.png</file>
+        <file>images/background3.png</file>
+        <file>images/background4.png</file>
+        <file>images/color.png</file>
+        <file>images/line.png</file>
+        <file>images/picture (1).png</file>
+        <file>images/picture (2).png</file>
+        <file>images/picture (3).png</file>
+        <file>images/picture (4).png</file>
+        <file>images/picture (5).png</file>
+        <file>images/picture (6).png</file>
+        <file>images/picture (7).png</file>
+        <file>images/picture (8).png</file>
+        <file>images/picture (9).png</file>
+        <file>images/picture (10).png</file>
+        <file>images/picture (11).png</file>
+        <file>images/picture (12).png</file>
+        <file>images/picture (13).png</file>
+        <file>images/picture (14).png</file>
+        <file>images/picture (15).png</file>
+        <file>images/picture (16).png</file>
+        <file>images/picture (17).png</file>
+        <file>images/picture (18).png</file>
+        <file>images/picture (19).png</file>
+        <file>images/picture (20).png</file>
+        <file>images/Tcolor.png</file>
+        <file>images/wenzi.png</file>
+    </qresource>
+</RCC>

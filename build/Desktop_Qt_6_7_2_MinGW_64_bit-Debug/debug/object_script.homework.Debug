@@ -1,0 +1,11 @@
+debug/arrow.o
+debug/chart_base.o
+debug/diagramitem.o
+debug/diagramscene.o
+debug/diagramtextitem.o
+debug/main.o
+debug/mainwindow.o
+debug/qrc_image.o
+debug/moc_diagramscene.o
+debug/moc_diagramtextitem.o
+debug/moc_mainwindow.o
